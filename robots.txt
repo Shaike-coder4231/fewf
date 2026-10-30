@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://shaike-coder4231.github.io/fewf/sitemap.xml
